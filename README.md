@@ -1,2 +1,3 @@
 # MPU9150Cortex
-Cortex M3 MPU9150 
+##A implementation of I2C and futhermore commmunication with a MPU9150 Gyro/Accel/Magn Sensor
+####Used processor STM32FM103RB
